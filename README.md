@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am nick, but in the tech community you can always find me as Nico7777777 👋
 
 <!--
 **Nico7777777/Nico7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
