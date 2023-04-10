@@ -8,11 +8,13 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 
 <table width="100%" height="100%" align="center" style=" tr:hover {background-color: #D6EEEE;}">
     <tr>
-        <td>
-            <a style="text-align:left;" target="_blank" align="left" background-color="grey">
-                <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+        <td colspan="2">
+            <a width="100%" style="text-align:left;" target="_blank" align="left" background-color="grey">
+                <img width="100%" align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
             </a>
         </td>
+	</tr>
+	<tr>
         <td>
             <ul>
                 <li>🔭 highschool student based in Bucharest</li></br>
