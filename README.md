@@ -35,7 +35,7 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 <p align="center">
     <!-- LinkedIn -->
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/andrei-nicola-6a71801a3/">
 			<img height="30" width="30" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <!-- GitHub -->
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nico7777777/">
