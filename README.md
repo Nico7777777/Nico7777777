@@ -23,7 +23,7 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
         </td>
         <td>
             <h3>About my work:</h3>
-    
+    		<p>Microsoft Learn Student Ambassador fellow</p>
         </td>
     </tr>
 </table>
@@ -34,14 +34,28 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 <p align="center">
     <!-- LinkedIn -->
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img height="30" width="30" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <!-- GitHub -->
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nico7777777/">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <!-- StackoverFlow -->
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-    <!-- HackerEarth -->
-        <a style="margin-left: 10px;" target="_blank" href="https://www.hackerearth.com/@nick7777777">
-            <img src="https://icons8.com/icon/mT2bzIQRdfpR/hackerrank-is-a-technology-company-that-focuses-on-competitive-programming"></a>
+		<img height="30" width="30" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <!-- StackOverflow -->
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/10829616/andrei?tab=profile">
+				<img height="30" width="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+    <!-- HackerRank -->
+        <a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/Nico7777777">
+            <img height="30" width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+		</a>
+	<!-- LeetCode -->
+        <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/Nico7777777/">
+            <img height="30" width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+		</a>
 </p>
+<div align="center">
+	<img height="30" width="30" src="https://img.icons8.com/plasticine/100/null/gmail.png"/>
+	<kbd> nicola.andrei.g@gmail.com</kbd>
+</div>
+<div align="center">
+	<img height="30" width="30" src="https://img.icons8.com/doodle/48/null/yahoo--v1.png"/>
+	<kbd> nicola_andrei18@yahoo.com</kbd>
+</div>
+	
