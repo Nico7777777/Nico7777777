@@ -38,6 +38,18 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 </table>
     <br/>
 
+<div align="center" style="background:grey;">
+	<h3>:hammer_and_wrench: Languages and Tools :</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroiStudio" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+</div>
 
 <!-- GH Stats -->
 <table align="center" border="1" style="width:100%;padding:10px;">
@@ -72,6 +84,10 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
         <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/Nico7777777/">
             <img height="30" width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
 		</a>
+	<!-- Kaggle -->
+		<a style="margin-left: 10px;" target="_blank" href="https://www.kaggle.com/nico7777777">
+			<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg"/></a>
+	<!-- -->
 </p>
 
 <!-- Contact2 -->
