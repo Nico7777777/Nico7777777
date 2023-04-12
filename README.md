@@ -26,12 +26,13 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 				</li></br>
             </ul>
         </td>
-        <td>
-            <h3 style="padding:0;margin:0;">About my work:</h3>
+        <td style="padding-top:0;">
+            <h3 align="center" style="padding:0;margin:0;">About my work:</h3>
     		<ul>
-				<li>Microsoft Learn Student Ambassador fellow</li>
-				<li>Bucharest Flutter Meetup fellow</li>
-				<li>playing team CTFs as 'babybears' member</li>
+				<li>Microsoft Learn Student Ambassador fellow</li><br/>
+				<li>Bucharest Flutter Meetup fellow</li><br/>
+				<li>playing team CTFs as 'babybears' member</li><br/>
+				<li>Printing 3D stuff on my Anycubic i3 Mega S</li><br/>
 			</ul>
         </td>
     </tr>
