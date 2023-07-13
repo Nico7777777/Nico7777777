@@ -25,6 +25,7 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 	</tr>
 	<tr>
         <td>
+			<h3 align="center" style="padding:0;margin:0;">My studies:</h3>
             <ul style="padding:5 15 5">
                 <li>🔭 fresher to be soon at UPB</li></br>
                <li>🌱 learning RL on OpenAI atari</li></br>
