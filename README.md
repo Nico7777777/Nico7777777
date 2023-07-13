@@ -5,6 +5,15 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 <h3 align="center">A tech enthusiast from Romania 🇷🇴</h3>
 <br/>
 
+<!--
+<div style="float:left">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+	  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+	  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+	</picture>
+
+</div> -->
 
 <table align="center" style="width:100%;padding:20px;">
     <tr>
@@ -16,19 +25,19 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 	</tr>
 	<tr>
         <td>
-            <ul>
-                <li>🔭 highschool student based in Bucharest</li></br>
-               <li>🌱 learning Reinforcement Learning on atari games</li></br>
+            <ul style="padding:5 15 5">
+                <li>🔭 fresher to be soon at UPB</li></br>
+               <li>🌱 learning RL on OpenAI atari</li></br>
                 <li>🤝 spare time CTFs player</li></br>
-                <li>🌱 I’m currently learning
+                <li>🌱 learning
 					<img width="25" height="25" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/null/external-dot-net-domain-for-sale-under-landing-page-template-landing-green-tal-revivo.png">
-					MAUI to enrich my knowledge
+					MAUI to enrich my knwl.
 				</li></br>
             </ul>
         </td>
         <td style="padding-top:0;">
             <h3 align="center" style="padding:0;margin:0;">About my work:</h3>
-    		<ul>
+    		<ul style="padding:5 15 5">
 				<li>Microsoft Learn Student Ambassador fellow</li><br/>
 				<li>Bucharest Flutter Meetup fellow</li><br/>
 				<li>playing team CTFs as 'babybears' member</li><br/>
@@ -41,15 +50,17 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 
 <div align="center" style="background:grey;">
 	<h3>:hammer_and_wrench: Languages and Tools :</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroiStudio" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroiStudio" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
 
 <!-- GH Stats -->
@@ -96,8 +107,10 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 	<img height="30" width="30" src="https://img.icons8.com/plasticine/100/null/gmail.png"/>
 	<kbd> nicola.andrei.g@gmail.com</kbd>
 </div>
+
+<!--
 <div align="center">
 	<img height="30" width="30" src="https://img.icons8.com/doodle/48/null/yahoo--v1.png"/>
 	<kbd> nicola_andrei18@yahoo.com</kbd>
 </div>
-	
+-->
