@@ -100,6 +100,9 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 	<!-- Kaggle -->
 		<a style="margin-left: 10px;" target="_blank" href="https://www.kaggle.com/nico7777777">
 			<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg"/></a>
+   		<a style="margin-left: 10px;" target="_blank" href="">
+			<img height="30" width="30" src="hackthebox.svg">
+		</a>
 	<!-- -->
 </p>
 
