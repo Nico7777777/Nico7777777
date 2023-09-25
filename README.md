@@ -1,3 +1,7 @@
+<html>
+<head>
+</head>
+<body>
 <h1 align="center">Hi there, I am nick,<br>
 aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 </h1>
@@ -37,15 +41,22 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
             </ul>
         </td>
         <td style="padding-top:0;">
-            <h3 align="center" style="padding:0;margin:0;">About my work:</h3>
+           	<h3 align="center" style="padding:0;margin:0;">About my work:</h3>
     		<ul style="padding:5 15 5">
 				<li>Microsoft Learn Student Ambassador fellow</li><br/>
 				<li>Bucharest Flutter Meetup fellow</li><br/>
 				<li>playing team CTFs as 'babybears' member</li><br/>
 				<li>Printing 3D stuff on my Anycubic i3 Mega S</li><br/>
 			</ul>
-        </td>
+		</td>
     </tr>
+	<tr>
+		<td colspan="2" align="center">
+			<h3 align="center" style="padding:0;margin:0;">Robotics experience:</h3>
+			<p>AutoVortex team(2021 - 2023)</p>
+			<p>2Space team(2023 - present)</p>
+		</td>
+	</tr>
 </table>
     <br/>
 
@@ -118,3 +129,5 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 	<kbd> nicola_andrei18@yahoo.com</kbd>
 </div>
 -->
+</body>
+</html>
