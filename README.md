@@ -32,7 +32,7 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 			<h3 align="center" style="padding:0;margin:0;">My studies:</h3>
             <ul style="padding:5 15 5">
                 <li>🔭 ACS UPB fresher</li></br>
-               <li>🌱 AI dev</li></br>
+               <li>🌱 junior AI developer</li></br>
                 </br>
             </ul>
         </td>
@@ -40,7 +40,7 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
            	<h3 align="center" style="padding:0;margin:0;">About my work:</h3>
     		<ul style="padding:5 15 5">
 				<li>playing team CTFs as 'babybears' member</li><br/>
-				<li>Printing 3D stuff on my Anycubic i3 Mega S</li><br/>
+				<li>Electronist and hardware designer as Student2Space member</li><br/>
 			</ul>
 		</td>
     </tr>
