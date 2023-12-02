@@ -31,32 +31,19 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
         <td>
 			<h3 align="center" style="padding:0;margin:0;">My studies:</h3>
             <ul style="padding:5 15 5">
-                <li>🔭 fresher to be soon at UPB</li></br>
-               <li>🌱 learning RL on OpenAI atari</li></br>
-                <li>🤝 spare time CTFs player</li></br>
-                <li>🌱 learning
-					<img width="25" height="25" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/null/external-dot-net-domain-for-sale-under-landing-page-template-landing-green-tal-revivo.png">
-					MAUI to enrich my knwl.
-				</li></br>
+                <li>🔭 ACS UPB fresher</li></br>
+               <li>🌱 AI dev</li></br>
+                </br>
             </ul>
         </td>
         <td style="padding-top:0;">
            	<h3 align="center" style="padding:0;margin:0;">About my work:</h3>
     		<ul style="padding:5 15 5">
-				<li>Microsoft Learn Student Ambassador fellow</li><br/>
-				<li>Bucharest Flutter Meetup fellow</li><br/>
 				<li>playing team CTFs as 'babybears' member</li><br/>
 				<li>Printing 3D stuff on my Anycubic i3 Mega S</li><br/>
 			</ul>
 		</td>
     </tr>
-	<tr>
-		<td colspan="2" align="center">
-			<h3 align="center" style="padding:0;margin:0;">Robotics experience:</h3>
-			<p>AutoVortex team(2021 - 2023)</p>
-			<p>2Space team(2023 - present)</p>
-		</td>
-	</tr>
 </table>
     <br/>
 
