@@ -31,16 +31,16 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
         <td>
 			<h3 align="center" style="padding:0;margin:0;">My studies:</h3>
             <ul style="padding:5 15 5">
-                <li>🔭 ACS UPB fresher</li></br>
-               <li>🌱 junior AI developer</li></br>
+                <li>🔭UNSTPB computer science(ACS) fresher</li></br>
+               <li>🌱 AI intern</li></br>
                 </br>
             </ul>
         </td>
         <td style="padding-top:0;">
            	<h3 align="center" style="padding:0;margin:0;">About my work:</h3>
     		<ul style="padding:5 15 5">
-				<li>playing team CTFs as 'babybears' member</li><br/>
-				<li>Electronist and hardware designer as Student2Space member</li><br/>
+				<li>CTF player</li><br/>
+				<li>electronics programmer for Students2Space</li><br/>
 			</ul>
 		</td>
     </tr>
@@ -52,11 +52,12 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
+	<!--<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroiStudio" width="40" height="40"/>&nbsp;
+	-->
 	<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroiStudio" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
