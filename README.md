@@ -31,16 +31,16 @@ aka <a href="https://Nico7777777.github.io" target="_blank">Nico7777777 👋</a>
         <td>
 			<h3 align="center" style="padding:0;margin:0;">My studies:</h3>
             <ul style="padding:5 15 5">
-                <li>🔭UNSTPB computer science(ACS) fresher</li></br>
-               <li>🌱 AI intern</li></br>
+                <li>🔭UPB ACS student</li></br>
+		<li>working in telemetry department at Students2Space</li><br/>
                 </br>
             </ul>
         </td>
         <td style="padding-top:0;">
            	<h3 align="center" style="padding:0;margin:0;">About my work:</h3>
     		<ul style="padding:5 15 5">
-				<li>CTF player</li><br/>
-				<li>electronics programmer for Students2Space</li><br/>
+				<li>CTF player on crypto & stegano</li><br/>
+          		     	<li>🌱 AI passioanted</li></br>
 			</ul>
 		</td>
     </tr>
